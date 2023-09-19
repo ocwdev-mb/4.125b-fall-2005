@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "398ba0fa-15ad-a8b7-abac-2a8473d100c9",
+  "instructors": {
+    "content": [
+      "39cc3754-2ffa-2c37-f1af-959679493fc4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a501f6f3-f08e-caae-e16b-d7357e2b03c8",
+    "website": "4-125b-architecture-studio-building-in-landscapes-fall-2005"
+  },
+  "course_title": "Architecture Studio: Building in Landscapes",
+  "course_description": "This subject introduces skills needed to build within a landscape establishing continuities between the built and natural world. Students learn to build appropriately through analysis of landscape and climate for a chosen site, and to conceptualize design decisions through drawings and models.\n\nThis class was taught concurrently with course 4.125A. Some of the assignments are the same, some are different, and the sites for the final project are different. But since they were taught in tandem, it would be useful to look at both together.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.125B",
+  "course_image_thumbnail": {
+    "content": "5ce828de-1f4e-d3ed-da01-bacdad4ecfa5",
+    "website": "4-125b-architecture-studio-building-in-landscapes-fall-2005"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Design Assignments with Examples"
+  ],
+  "site_uid": "523caf72-4c3a-4f68-8e1f-30a7c834fe8d",
+  "site_short_id": "4.125b-fall-2005",
+  "title": "Course Metadata"
+}
